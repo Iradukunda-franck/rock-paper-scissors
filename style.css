@@ -1,0 +1,52 @@
+body {
+  background-color: white;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+     margin: 0 13em;
+    margin-top: 3em;
+    gap: 16px;
+}
+
+
+.rock {
+    padding: 7px 1em;
+    width: 120px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    color:#f9faf8;
+    border: none;
+}
+
+.paper {
+    padding: 7px 1em;
+    width: 120px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    color:#f9faf8;
+    border: none;
+}
+
+.scissors {
+    padding: 7px 1em;
+    width: 120px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    color:#f9faf8;
+    border: none;
+}
+
+#result {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 18px;
+
+}
+
+
